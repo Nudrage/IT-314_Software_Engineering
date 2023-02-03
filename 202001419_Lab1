@@ -1,0 +1,36 @@
+# 202001419 Software Engineering Lab Assignment-1 
+
+Identifying Functional and Non-Functional Requirements
+
+Q1. Identify FRs and NFRs
+Functional Requirements:
+1. Librarian can create new users by adding new members and even to remove existing users.
+2. Users can search for books based on different domains like name, publication or category.
+3. Allow users to extend their issued period in case no other user requested for an issue of that book, or can return the book.
+4. Librarian can add new books purchased or remove book which are off the shelf.
+5. Anybody can browse the existing books and only the user has the rights to issue the book.
+6. Should be able to bifercate between member of LIS and normal user.
+7. The system should notify the librarian and users about overdue issue books and calculate fine in case of delay.
+
+Non-Functional Requirements:
+1. The system should should only login users with legitimate login credentials.
+2. The system should be scallable to accomodate increase of users.
+3. It should have ability to withstand minor modifications without causing harm to the database.
+4. It should be a web application with HTML 5 framework. 
+5. It should work on the institute LAN.
+
+
+Q2. Identify scope, features and non-functional aspects of the given problem
+Scope:
+1. Develop a mobile based application for real-time tracking.
+2. Use of voice sensors for the input to the AI for it to evaluate alerts.
+
+Features:
+1. It should create appropriate alerts as the requirement of the user.
+2. It should have an emergency mechanism which make contacts to important persons.
+3. Should have accurate sensors for real-time voice sensing of car horns and babaies. 
+
+Non-Functional Aspects:
+1. It should analyse and provide a weekly or monthly analysis of the number of alerts and its causes and provide some suggestions in order to prevent it.
+2. The proposed system would be user-friendly and would provide Graphical User Interface.
+3. The Server would perform desired tasks as expected, the system does its work with more accuracy.
